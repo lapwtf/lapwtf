@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Lappy
+# heh, i'm lappy..
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lappy&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -6,7 +6,6 @@
   [![Website](https://img.shields.io/badge/Website-lain.wtf-blueviolet?style=flat-square)](https://lain.wtf/)
   [![Discord](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=flat-square&logo=discord)](https://discord.gg/lainbot)
 
-  <img src="https://discord.c99.nl/widget/theme-4/1255185280604962898.png"/>
   <img src="https://lanyard.cnrad.dev/api/1255185280604962898?theme=dark&borderRadius=15px"/>
 </div>
 
