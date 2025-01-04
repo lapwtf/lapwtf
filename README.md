@@ -7,7 +7,7 @@
   [![Discord](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=flat-square&logo=discord)](https://discord.gg/lainbot)
 
   <img src="https://discord.c99.nl/widget/theme-4/1255185280604962898.png"/>
-  <img src="https://lanyard.cnrad.dev/api/1255185280604962898"/>
+  <img src="https://lanyard.cnrad.dev/api/1255185280604962898?theme=dark&borderRadius=15px"/>
 </div>
 
 ## 💫 About Me
