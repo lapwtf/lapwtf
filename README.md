@@ -9,7 +9,7 @@
   <img src="https://lanyard.cnrad.dev/api/1255185280604962898?theme=dark&borderRadius=15px"/>
 </div>
 
-## 💫 About Me
+## 🕸️ About Me
 ```python
 class Lappy:
     def __init__(self):
@@ -20,7 +20,7 @@ class Lappy:
         self.interests = ["Bot Development", "API Design", "Security"]
 ```
 
-## 🤖 My Projects
+## 🕸️ My Projects
 
 ### Lain Bot
 A powerful Discord bot focused on providing unique features and enhancing server management capabilities.
@@ -34,7 +34,7 @@ Another innovative Discord bot bringing advanced functionality to Discord commun
 A collection of high-quality Discord tools and services.
 [View Products](https://lain.wtf)
 
-## 🌐 Socials & Links
+## 🕸️ Socials & Links
 ```python
 socials = {
     "discord": "@mwpv",
@@ -44,7 +44,7 @@ socials = {
 }
 ```
 
-## 💻 Tech Stack
+## 🕸️ Tech Stack
 
 ```python
 tech_stack = {
@@ -55,7 +55,7 @@ tech_stack = {
 }
 ```
 
-## 📊 GitHub Stats
+## 🕸️ GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lappy&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
