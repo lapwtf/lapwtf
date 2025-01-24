@@ -5,10 +5,8 @@
   
   <img src="https://komarev.com/ghpvc/?username=lapwtf&style=flat-square&color=blueviolet" alt="Profile Views"/>
   
-  [![Website](https://img.shields.io/badge/Website-lain.wtf-blueviolet?style=flat-square)](https://lain.wtf/)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=flat-square&logo=discord)](https://discord.gg/lainbot)
-
-  <img src="https://lanyard.cnrad.dev/api/1255185280604962898?theme=dark&borderRadius=15px"/>
+  [![Telegram](https://img.shields.io/badge/Telegram-Channel-blueviolet?style=flat-square&logo=telegram)](https://t.me/fedwatched)
+  [![Personal](https://img.shields.io/badge/Telegram-Personal-7289DA?style=flat-square&logo=telegram)](https://t.me/eatmyinsides)
 </div>
 
 ## 🕸️ About Me
@@ -16,54 +14,44 @@
 class Lappy:
     def __init__(self):
         self.name = "Lappy"
-        self.discord = "@mwpv"
-        self.website = "https://lain.wtf"
-        self.projects = ["Lain Bot", "Vile Bot", "Birth Products"]
-        self.interests = ["Bot Development", "API Design", "Security"]
+        self.telegram = "@eatmyinsides"
+        self.projects = ["Birth Tools", "Birth Service"]
+        self.interests = ["Bot Development", "Security", "Privacy"]
+        self.team = ["Social", "Murda"]
 ```
 
-## 🕸️ My Projects
-
-### Lain Bot
-A powerful Discord bot focused on providing unique features and enhancing server management capabilities.
-[Buy Lain](https://discord.gg/lainbot)
-
-### Vile Bot
-Another innovative Discord bot bringing advanced functionality to Discord communities.
-[Get Vile](https://discord.gg/lainbot)
-
-### Birth Products
-A collection of high-quality Discord tools and services.
-[View Products](https://lain.wtf)
-
-## 🕸️ Socials & Links
+## 🕸️ Important Notice - January 2025
 ```python
-socials = {
-    "discord": "@mwpv",
-    "server": "discord.gg/lainbot",
-    "website": "lain.wtf",
-    "shop": "lain.wtf/shop"
+project_status = {
+    "server": "/hazard",
+    "ownership": ["Lappy (main)", "Social", "Murda"],
+    "key_services": ["Birth Tools", "Birth Service"],
+    "current_status": "Migrated to Telegram",
+    "reason": "Security and Privacy Concerns",
+    "future_plans": "Potential comeback, no immediate timeline"
+}
+```
+
+## 🕸️ Current Contact Information
+```python
+contact_info = {
+    "personal": "https://t.me/eatmyinsides",
+    "channel": "https://t.me/fedwatched",
+    "platform": "Telegram (for enhanced privacy)"
 }
 ```
 
 ## 🕸️ Tech Stack
-
 ```python
 tech_stack = {
-    "languages": ["Python", "JavaScript", "TypeScript"],
-    "frameworks": ["discord.py", "Node.js"],
-    "tools": ["Git", "VS Code", "Docker"],
+    "languages": ["Python", "C++", "C"],
+    "frameworks": ["discord.py"],
+    "focus": ["Security", "Privacy", "Automation"],
     "platforms": ["Windows", "Linux"]
 }
 ```
 
-## 🕸️ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lapwtf&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</div>
-
 ---
 <div align="center">
-  <i>Your a skid hahaha</i>
+  <i>Privacy and Security First</i>
 </div>
