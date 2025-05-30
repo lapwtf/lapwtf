@@ -1,7 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/1316419652544630806/1325849537239191643/2e7f2ff362787eded5cc761c910b9aa1.gif" width="100%" alt="Banner"/>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=lapwtf&style=flat-square&color=darkgrey" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=lapwtf&style=flat-square&color=grey" alt="Profile Views"/>
 </p>
 
 ### ― contacts
