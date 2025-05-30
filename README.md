@@ -23,4 +23,4 @@
 - Platforms: Windows, Linux
 - Frameworks: discord.py
 
-<sub>Last update: January 2025</sub>
+<sub>Last update: May 2025</sub>
