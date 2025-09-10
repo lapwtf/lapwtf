@@ -11,7 +11,7 @@
 - Name: Lappy
 - Focus: Security, Privacy, Automation
 - Projects: Birth Tools, Birth Service
-- Team: Social, Lily
+- Team: Social
 
 ### ― status
 - All services migrated to Telegram
